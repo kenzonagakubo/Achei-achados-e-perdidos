@@ -1,0 +1,14 @@
+Achei! - Protótipo (Interface Homem-Máquina)
+
+Como abrir: dê dois cliques em index.html (funciona offline em qualquer navegador).
+O arquivo é autocontido: logotipo e mascote já estão embutidos nele.
+A pasta assets/ tem as imagens separadas, caso você queira usá-las nos slides.
+
+Observações:
+- Os dados ficam só na memória; ao recarregar a página, voltam ao padrão.
+- As fontes (Fraunces e Inter) vêm do Google Fonts e precisam de internet; sem ela, o site usa fontes do sistema.
+
+Novidades desta versão:
+- Tela de abertura (splash) com o ícone do app; depois de ~3 s (ou ao tocar / clicar em "Pular") segue para a tela de boas-vindas e login.
+- Transições animadas entre abertura, boas-vindas, login e app, e entre as telas do app (Início, Registrar, Meus casos, Mensagens).
+- Quem tem a opção "reduzir movimento" ativada no sistema vê a versão sem animações.
